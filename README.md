@@ -1,3 +1,6 @@
+> Github: https://github.com/Austinwenyz/rclone-backup/
+> Docker Hub: https://hub.docker.com/r/austinwenyz/rclone-backup/
+
 # Rclone Backup Docker
 
 This is a lightweight Docker image based on Alpine Linux, designed for file backup and synchronization using Rclone. It supports scheduled tasks and immediate execution, allowing easy backup of local files to various cloud storage services.
